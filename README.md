@@ -1,2 +1,2 @@
-# Bulk-Email-Sender
-A python application to send bulk emails to the list of requested clients
+# bulk-email-sender-with-php-ajax
+This is a simple bulk email sender with php
